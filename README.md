@@ -1,5 +1,5 @@
 <h2 align="center">Hello there 👋 It's Kazmierz Litwin 😃 </h2>
-<h4 align="center"><i>Software Engineer 🌱 Mindful Explorer 🌱 Ambivert</i></h4>
+<h4 align="center"><i>Web Developer 🌱 Senior Front-end 🌱 Senior Back-end 🌱 Machine Learning</i></h4>
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/rctushar07" target="_blank">
@@ -17,7 +17,8 @@
 
 #### Language
 
-<code><img title="python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img title="javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img title="c" height="20" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
+<code><img title="react" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/react.png"></code><code><img title="python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img title="javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img title="c" height="20" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
 
 #### Data
 
