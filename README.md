@@ -1,7 +1,7 @@
 <h2 align="center">Hello there 😃 </h2>
 <h4 align="center"><i>Web Developer 🌱 Senior Front-end 🌱 Senior Back-end 🌱 Machine Learning</i></h4>
 <br>
-<h3>Energetic Senior Web Developer with 6 years experience creating and maintaining functional, attractive, and flexible web applications using several languages and frameworks. Clear understanding of modern backend  technologies and best database design practices. Experienced with clouding and web3 infrastructure building and application development on them. Especially interested in website building, clouding tech, blockchain and NFTs, trading algos and so on. Always feel fascinated in challenging job and new technologies, enjoying collaboration with new  team.  🤝 </h3>
+<h3>Energetic Senior Web Developer with 8 years experience creating and maintaining functional, attractive, and flexible web applications using several languages and frameworks. Clear understanding of modern backend  technologies and best database design practices. Experienced with clouding and web3 infrastructure building and application development on them. Especially interested in website building, clouding tech, blockchain and NFTs, trading algos and so on. Always feel fascinated in challenging job and new technologies, enjoying collaboration with new  team.  🤝 </h3>
 
 <br/><div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
